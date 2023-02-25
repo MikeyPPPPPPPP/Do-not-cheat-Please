@@ -1,0 +1,2 @@
+inspect element -> Applecation -> coockies -> flag
+echo "RlN7aG93X2Fib3V0X3RoYXRfZW5jb2RpbmdfOEYyREUzfQ==" | base64 -d

@@ -1,0 +1,9 @@
+unzip the bushes.zip
+
+mv run-me-in-the-bushes.exe bushes/bushes
+
+run run-me-in-the-bushes.exe
+
+
+dir /a 
+type .open_me.txt

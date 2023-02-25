@@ -1,0 +1,9 @@
+import requests
+
+url = "http://shell.fullstackacademy.com:60026/"
+
+data = {"handle":"dsa", "movie":"fd","command":"uname -a"}
+
+r = requests.post(url, json=data)
+print(r.headers)
+print(r.text)

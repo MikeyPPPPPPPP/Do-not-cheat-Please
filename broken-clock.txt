@@ -1,0 +1,9 @@
+1:37   /home/fullstack/labs/070-environment/broken-clock
+
+mv broken-clock /tmp
+
+crontab -e
+37 13 * * * /tmp/broken-clock
+
+
+./tmp/broken-clock

@@ -1,0 +1,3 @@
+ps -aux | grep "buzz"
+ps -aux | grep "buzz" | awk {'print $13'} | tr -d '\n'
+

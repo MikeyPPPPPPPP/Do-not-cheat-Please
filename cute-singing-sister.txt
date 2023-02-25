@@ -1,0 +1,1 @@
+curl http://shell.fullstackacademy.com:60006/custom.css | grep "FS"

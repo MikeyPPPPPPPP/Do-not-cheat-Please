@@ -1,0 +1,8 @@
+curl http://shell.fullstackacademy.com:60004/ -o forc-2.txt
+
+less forc-2.txt
+
+look for links
+
+curl https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css | grep "FS"
+curl http://shell.fullstackacademy.com:60004/background_flash.js | grep "FS"

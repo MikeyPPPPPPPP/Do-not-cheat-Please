@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=5Fcf-8LPvws&ab_channel=thenewboston
+
+ssh-keygen -t rsa
+use password offensivesecurity11
+
+
+ssh-copy-id kali@127.0.0.1
+
+cd ~/.ssh
+echo id_rsa.pub >> authorized_keys 
+
+cd ~/labs/150linux-networking
+su kali
+
+./ssshhh-2

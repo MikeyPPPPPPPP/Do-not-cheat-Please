@@ -1,0 +1,9 @@
+hash = '0a3a4cce269fee850e2ae01a1ca461f8'
+
+import hashlib
+
+for x in range(100,999):
+    has = "FS{cabbage-wait_that's_not_right_"+str(x)+"}"
+    result = hashlib.md5(has.encode())
+    if result.hexdigest() == hash:
+            print(has)

@@ -1,0 +1,13 @@
+Dig linux.fullstackacademy.com
+
+;; ANSWER SECTION:
+linux.fullstackacademy.com. 141	IN	CNAME	shell.fullstackacademy.com.
+shell.fullstackacademy.com. 3441 IN	A	52.1.103.48
+
+
+
+
+
+Ping -c1 shell.fullstackacademy.com
+
+FS{CNAME_52.1.103.48}

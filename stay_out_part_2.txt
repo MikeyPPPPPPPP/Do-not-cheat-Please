@@ -1,0 +1,7 @@
+wireshark
+
+Find the file name in the second HTTP/TCP stream
+
+File -> Export Objects -> HTTP 
+
+find the this_is_the_flag.jpg and export it

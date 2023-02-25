@@ -1,0 +1,6 @@
+download the "Certificate File" local.cerf 
+
+
+
+open it 
+read details

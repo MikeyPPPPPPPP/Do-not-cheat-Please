@@ -1,0 +1,2 @@
+kill $(ps -aux | grep "buzz" | awk {'print $2'})
+kill $(ps -aux | grep "sleep" | awk {'print $2'})

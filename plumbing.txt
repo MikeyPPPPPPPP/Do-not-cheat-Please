@@ -1,0 +1,2 @@
+nc shell.fullstackacademy.com 60013 | tee test.txt
+cat test.txt | grep "FS{"

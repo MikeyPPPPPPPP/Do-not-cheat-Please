@@ -1,0 +1,12 @@
+ls -l 
+-r-s--x--x
+
+
+anyone can execute it
+---x--x--x
+
+with the permissions of they owner 
+
+---s------
+
+and its red

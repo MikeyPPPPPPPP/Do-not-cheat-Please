@@ -1,0 +1,6 @@
+run the ./listener 
+
+
+netstat -tulpn | grep LISTEN
+
+nc localhost port

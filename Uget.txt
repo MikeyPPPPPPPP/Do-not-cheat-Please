@@ -1,0 +1,10 @@
+wget https://shell.fullstackacademy.com/static/e8f96272cf5fd2e7a5e3ac8d12cb4242/white-hat-manifesto.txt
+wget https://shell.fullstackacademy.com/static/e8f96272cf5fd2e7a5e3ac8d12cb4242/uget
+chmod +x uget
+
+
+python3 -m 'http.server' 80
+
+in a new window run
+
+./uget

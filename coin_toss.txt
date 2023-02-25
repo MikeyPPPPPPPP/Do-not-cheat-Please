@@ -1,0 +1,1 @@
+head -n 18 coin-toss.txt | tr -d '\n';tail -n 19 coin-toss.txt | tr -d '\n'

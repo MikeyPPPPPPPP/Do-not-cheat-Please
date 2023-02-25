@@ -1,0 +1,12 @@
+wget https://shell.fullstackacademy.com/static/cc76684960c7d71e4c8a5e30e15b4005/listening
+chmod +x listening
+
+teminal 1
+
+
+nc -l 11865
+
+
+terminal 2
+
+./listening

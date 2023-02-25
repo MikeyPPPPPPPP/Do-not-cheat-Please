@@ -1,0 +1,13 @@
+sudo wireshark
+
+./interceptor
+
+
+look through the second instance of tcp traffic
+
+
+
+
+
+
+

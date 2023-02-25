@@ -1,0 +1,3 @@
+wget -r -np -k -p http://shell.fullstackacademy.com:60028/
+cd shell.fullstackacademy.com:60028 
+grep -r "FS{"

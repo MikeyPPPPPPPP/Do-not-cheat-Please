@@ -1,0 +1,14 @@
+apt install sshpass
+
+sudo adduser kali
+make the password offensivesecurity11
+
+
+start systemctl ssh
+
+
+ssh localhost
+
+quit
+
+./ssshhh

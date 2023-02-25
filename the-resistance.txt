@@ -1,0 +1,4 @@
+sudo addgroup the-resistance
+sudo adduser neo the-resistance
+sudo adduser trinity the-resistance
+./the-resistance

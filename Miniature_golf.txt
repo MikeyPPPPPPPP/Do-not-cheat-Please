@@ -1,0 +1,2 @@
+curl -X PUT http://shell.fullstackacademy.com:60022/     
+echo "RlN7UFVUX2VtX3VwX1BVVF9lbV91cF85NzlDRDd9" | base64 -d

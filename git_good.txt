@@ -1,0 +1,21 @@
+mkdir .ssh
+cd .ssh
+vi id_rsa
+
+paste the contents of https://shell.fullstackacademy.com/static/7eff9adf039dd514bcb6e2652dab1ee4/git_good_rsa into id_rsa
+chmod 600 id_rsa
+
+
+
+sudo vi ~/.ssh/config
+
+Host github.com
+        Hostname github.com
+        IdentityFile ~/labs/linux_networking/.ssh/id_rsa
+        IdentitiesOnly yes
+
+
+
+git clone git@github.com:FullstackAcademy/cyber-git-good.git
+cd cyber-git-good
+cat README.txt

@@ -1,0 +1,7 @@
+wget https://shell.fullstackacademy.com/static/12622c4a400a7b8911488cd9aedc38b3/what-is-existence
+chmod +x what-is-existence
+
+touch am_i_even_real
+sudo updatedb
+locate am_i_even_real
+./what-is-existence

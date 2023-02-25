@@ -1,0 +1,3 @@
+like listener but
+
+nc -lk port

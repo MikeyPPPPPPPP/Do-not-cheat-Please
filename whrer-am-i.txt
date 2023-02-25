@@ -1,0 +1,4 @@
+which where-am-i
+cd /usr/local/bin/
+cat secret.txt
+

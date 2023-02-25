@@ -1,0 +1,6 @@
+FS{rockyou.txt_contains_1#######_passwords}
+locate rockyou.txt
+cd /usr/share/wordlists/
+gunzip -d rockyou.txt.gz
+wc rockyou.txt
+14344392

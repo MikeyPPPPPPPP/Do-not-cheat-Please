@@ -1,0 +1,5 @@
+http://shell.fullstackacademy.com:60009/
+
+1. inspect element 
+2.network tab
+3. refresh page

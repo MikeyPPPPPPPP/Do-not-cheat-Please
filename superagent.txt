@@ -1,0 +1,4 @@
+cat /etc/group | grep "agent"
+sudo su agent13
+./super-agent
+exit

@@ -1,0 +1,8 @@
+nc shell.fullstackacademy.com 60010 | tee test.txt
+file
+mv test.txt test.gz
+gunzip -d test.gz
+file
+mv test test.tar.gz
+tar -zxvf test.tar.gz
+cat flag.txt| grep "FS{"

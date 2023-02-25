@@ -1,0 +1,8 @@
+sudo nano /etc/hosts
+
+127.0.0.1	localhost	et.phone.home
+
+
+then run "python3 -m 'http.server' 11915"
+
+and in another teminal run ./et

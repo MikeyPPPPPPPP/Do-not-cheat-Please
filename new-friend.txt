@@ -1,0 +1,2 @@
+as admin
+net user /add Neo

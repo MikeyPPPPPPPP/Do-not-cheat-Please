@@ -1,0 +1,5 @@
+apt search matrix | head
+
+p   cmatrix                         - simulates the display from "The Matrix" 
+
+apt install cmatrix

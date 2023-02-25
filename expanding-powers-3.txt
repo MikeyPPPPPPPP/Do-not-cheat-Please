@@ -1,0 +1,8 @@
+curl https://shell.fullstackacademy.com/static/e65b43868060debcceaee3a599c84afa/expanding-powers-3 -o expanding-powers-3
+
+// https://www.liquidweb.com/kb/how-do-i-set-up-setuid-setgid-and-sticky-bits-on-linux/
+
+su neo
+chmod 710 ./expanding-powers-3
+chmod u+s ./expanding-powers-3
+

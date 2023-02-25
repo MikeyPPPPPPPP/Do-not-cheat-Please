@@ -1,0 +1,13 @@
+https://www.tunnelsup.com/hash-analyzer/    to figure out what hash it is (sha512)
+
+
+import hashlib
+
+ex = "0123456789ABCDEF"
+for x in ex:
+    for y in ex:
+       for z in ex:
+	    s = "FS{hash-I_had_corned_beef_and_hash_"+str(x)+str(y)+str(z)+"}"
+	    r = hashlib.sha512(s.encode())
+	    if r.hexdigest() == 'a497453fe1eee3e0c4d44f2a74a1518744d247a1c6dd6c902a2b3367987f0e5d21fb1cbdd1af55ea78098be5a336ffaf06f19b8e5a5997e06d20ce00f9907424':
+		print(s)

@@ -1,0 +1,2 @@
+curl -X POST http://shell.fullstackacademy.com:60025/  
+echo "RlN7cGxlYXNlX21yX3Bvc3RtYW5fOEMxOTZGfQ==" | base64 -d

@@ -1,0 +1,6 @@
+cyberlab.fullstackacademy.com is a sub domain on fullstackacademy.com
+
+
+dig fullstackacademy.com NS
+
+the hint says its the .com

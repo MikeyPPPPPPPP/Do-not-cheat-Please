@@ -1,0 +1,4 @@
+mkdir flag-holder
+mv traveling-flag flag-holder/
+cd flag-holder
+./traveling-flag

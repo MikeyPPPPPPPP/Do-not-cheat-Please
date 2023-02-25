@@ -1,0 +1,3 @@
+cyber chef
+from binary
+from decimal

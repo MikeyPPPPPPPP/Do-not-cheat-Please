@@ -1,0 +1,2 @@
+dig flag.fullstackacademy.com txt
+echo "TGlrZSBhIGpvbHQgb2YgY2FmZmVpbmUsIEknbSBub3cgYXdha2UhIFRoYW5rcyBmb3IgdGhlIGhlbHAuIEhlcmUgaXMgeW91ciBmbGFnOgoKRlN7Q05BTUVzX2FyZV9zaW1wbHlfZG5zX2hhbmRsZXNfMjBhYjR9" | base64 -d

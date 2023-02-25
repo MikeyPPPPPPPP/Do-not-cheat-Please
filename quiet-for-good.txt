@@ -1,0 +1,3 @@
+ps -aux | grep "buzz"
+/usr/sbin/buzz
+sudo rm /usr/sbin/buzz

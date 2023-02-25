@@ -1,0 +1,9 @@
+control panel -> network connection -> 
+right click ethernet2 -> internet protocal version 4 -> proporties
+
+click use the following IP address
+
+
+make IP Adress -> 192.168.2.102
+
+

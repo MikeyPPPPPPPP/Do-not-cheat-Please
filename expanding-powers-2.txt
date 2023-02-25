@@ -1,0 +1,5 @@
+su neo
+chmod 743 ./expanding-powers-2
+-rwxr-xr--
+
+
